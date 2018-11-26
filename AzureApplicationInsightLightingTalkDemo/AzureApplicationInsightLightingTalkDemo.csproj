@@ -26,7 +26,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <ApplicationInsightsResourceId>/subscriptions/1bf9af90-cb7d-4b22-a1ac-08368db304d2/resourcegroups/AzureApplicationInsightLightingTalkDemo/providers/microsoft.insights/components/AzureApplicationInsightLightingTalkDemo</ApplicationInsightsResourceId>
-    <ApplicationInsightsAnnotationResourceId>/subscriptions/1bf9af90-cb7d-4b22-a1ac-08368db304d2/resourcegroups/AzureApplicationInsightLightingTalkDemo/providers/microsoft.insights/components/AzureApplicationInsightLightingTalkDemo</ApplicationInsightsAnnotationResourceId>
+    <ApplicationInsightsAnnotationResourceId>/subscriptions/1bf9af90-cb7d-4b22-a1ac-08368db304d2/resourceGroups/AzureApplicationInsightLightingTalkDemo/providers/microsoft.insights/components/AzureApplicationInsightLightingTalkDemo</ApplicationInsightsAnnotationResourceId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
